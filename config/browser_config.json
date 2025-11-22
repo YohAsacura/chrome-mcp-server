@@ -1,0 +1,13 @@
+{
+  "headless": false,
+  "timeout": 10,
+  "window_size": {
+    "width": 1920,
+    "height": 1080
+  },
+  "chrome_options": [
+    "--no-sandbox",
+    "--disable-dev-shm-usage",
+    "--disable-blink-features=AutomationControlled"
+  ]
+}

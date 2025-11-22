@@ -1,0 +1,8 @@
+# MCP Server dependencies
+mcp>=0.9.0
+
+# Browser automation
+selenium>=4.15.0
+
+# Additional dependencies
+pydantic>=2.5.0

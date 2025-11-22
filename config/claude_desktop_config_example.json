@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "chrome-automation": {
+      "command": "python",
+      "args": ["d:\\Projects\\MCP\\chrome-mcp-server\\src\\server.py"],
+      "env": {},
+      "description": "Chrome browser automation server for web scraping, testing, and automation tasks"
+    }
+  }
+}
